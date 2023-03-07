@@ -1,4 +1,4 @@
-//Lab6 - Working with the Document Object Model
+// Working with the Document Object Model
 
 //Question 1
 document.body.children[0].textContent= 'Learning about the Document Object Model';
